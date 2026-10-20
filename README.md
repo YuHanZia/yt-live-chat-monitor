@@ -1,6 +1,36 @@
-# YT 直播留言監控
+# YouTube Live Chat Monitor｜YT 直播留言監控
 
-Windows 桌面程式，可監控指定 YouTube 頻道的直播留言，並將名單中的留言通知到 Discord。
+[繁體中文](#繁體中文) ｜ [English](#english) ｜ [日本語](#日本語)
+
+## 繁體中文
+
+Windows 桌面直播留言監控工具，可追蹤指定 YouTube 頻道，並將符合監控名單的留言通知到 Discord。
+
+- 自動偵測頻道直播，直播網址更換時會重新連線。
+- 監控名單支援名稱與頻道 ID。
+- Discord 通知只顯示發送者名稱與留言內容。
+- 可過濾純 Emoji 留言。
+- 設定與名單保存在本機，不會包含在此儲存庫中。
+
+## English
+
+A Windows desktop app that monitors YouTube live chat and sends messages from your watchlist to Discord.
+
+- Detects channel livestreams and reconnects when the live URL changes.
+- Watchlist entries can use channel names or channel IDs.
+- Discord notifications show only the sender name and message.
+- Optionally filters emoji-only messages.
+- Your settings and watchlist stay on your PC and are not included in this repository.
+
+## 日本語
+
+YouTube のライブチャットを監視し、指定したユーザーのコメントを Discord に通知する Windows デスクトップアプリです。
+
+- チャンネルの配信を自動検出し、配信 URL が変わると再接続します。
+- 監視リストにはチャンネル名またはチャンネル ID を登録できます。
+- Discord 通知には投稿者名とコメントのみを表示します。
+- 絵文字だけのコメントを除外できます。
+- 設定と監視リストは PC 内に保存され、このリポジトリには含まれません。
 
 ## 功能
 
