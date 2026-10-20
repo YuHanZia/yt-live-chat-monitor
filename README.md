@@ -12,7 +12,7 @@ Windows 桌面程式，可監控指定 YouTube 頻道的直播留言，並將名
 
 ## Windows 執行檔
 
-到 GitHub 專案的 **Releases** 下載最新的 `YT直播留言監控-windows-x64.zip`，解壓縮後執行 `YT直播留言監控.exe`。
+到 GitHub 專案的 **Releases** 下載最新的 `yt-live-chat-monitor-windows-x64.zip`，解壓縮後執行 `YT直播留言監控.exe`。
 
 第一次執行請在介面填入 YouTube 頻道 ID 與 Discord Webhook，並設定監控名單。個人設定和名單不包含在 GitHub 版本中。
 
